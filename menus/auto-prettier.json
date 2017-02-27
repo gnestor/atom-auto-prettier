@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle auto-prettier",
+        "command": "auto-prettier:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "prettier",
+          "submenu": [
+            {
+              "label": "Auto Format",
+              "command": "auto-prettier:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

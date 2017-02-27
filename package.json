@@ -1,0 +1,17 @@
+{
+  "name": "atom-auto-prettier",
+  "main": "./lib/auto-prettier",
+  "version": "0.0.0",
+  "author": "Grant Nestor",
+  "description": "An Atom package that semantically reformats Javascript based on the window size",
+  "keywords": ["atom", "prettier", "javascript", "format"],
+  "activationCommands": {
+    "atom-workspace": "auto-prettier:toggle"
+  },
+  "repository": "https://github.com/gnestor/atom-auto-prettier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
