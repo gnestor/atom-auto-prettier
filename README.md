@@ -2,7 +2,7 @@
 
 An Atom package that semantically reformats Javascript based on the window size. 
 
-Powered by [prettier](https://github.com/prettier/prettier) and inspired by [rfmt](https://facebook.github.io/reason/tools.html) for Reason.
+Powered by [prettier](https://github.com/prettier/prettier) and inspired by [refmt](https://facebook.github.io/reason/tools.html) for Reason.
 
 ## 🎥 Demo 
 
