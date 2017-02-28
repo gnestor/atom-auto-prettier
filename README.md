@@ -18,11 +18,15 @@ Notice how prettier breaks lines at Javascript-specific boundaries, such as bloc
 
 ![screenshot](http://g.recordit.co/Q7cyk3wk5r.gif)
 
+> Does this package modify my source code?
+
+Yes, in the author of prettier's words: "[Prettier] removes all original styling and ensures that all outputted JavaScript conforms to a consistent style".
+
 ## 💾 Install
 
-### Depends on [atom-prettier](https://github.com/jlongster/prettier-atom). 
+### atom-auto-prettier depends on [prettier-atom](https://github.com/jlongster/prettier-atom)
 
-Install both **atom-prettier-atom** and **atom-auto-prettier** via Atom's [Install view](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) or via [apm](http://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
+Install both **atom-auto-prettier** and **prettier-atom**  via Atom's [Install view](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) or via [apm](http://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
 
 ```
 apm intall atom-auto-prettier prettier-atom
