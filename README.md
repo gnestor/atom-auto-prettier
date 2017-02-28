@@ -25,7 +25,7 @@ Notice how prettier breaks lines at Javascript-specific boundaries, such as bloc
 Install both **atom-prettier-atom** and **atom-auto-prettier** via Atom's [Install view](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) or via [apm](http://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
 
 ```
-apm intall atom-auto-prettier prettier-atom
+apm install atom-auto-prettier prettier-atom
 ```
 
 ## 💻 Usage
