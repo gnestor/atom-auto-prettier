@@ -29,7 +29,7 @@ Yes, in the author of prettier's words: "[Prettier] removes all original styling
 Install both **atom-auto-prettier** and **prettier-atom**  via Atom's [Install view](http://flight-manual.atom.io/using-atom/sections/atom-packages/#atom-packages) or via [apm](http://flight-manual.atom.io/using-atom/sections/atom-packages/#command-line):
 
 ```
-apm intall atom-auto-prettier prettier-atom
+apm install atom-auto-prettier prettier-atom
 ```
 
 ## 💻 Usage
